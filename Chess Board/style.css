@@ -1,0 +1,48 @@
+html{
+  background-color: antiquewhite;
+  background: url(https://i.pinimg.com/originals/f5/85/15/f58515772e2a308fe0c62bcd2332aa4d.jpg) no-repeat  ;
+  background-size: cover;
+}
+.body{
+  
+  height: 800px;
+  width: 800px;
+  background-color: rgb(254, 253, 251);
+  margin: 50px auto;
+  border: groove rgb(105, 191, 209);
+}
+.row
+{
+  
+  height: 100px;
+  width: 100%;
+  float: left;
+  
+  
+}
+.box{
+  width: 100px;
+  height: 100px;
+  float: left;
+  text-align: center;
+  font-size: 75px;
+}
+.box:hover{
+  background-color: aqua;
+  opacity: 0.2;
+}
+.black{
+  width: 100px;
+  height: 100px;
+  float: left;
+  background-color: black;
+}
+.img{
+  color: white;
+}
+.head{
+  text-align: center;
+  font-size: 100px;
+  color: rgb(178, 180, 176);
+  font-variant: small-caps;
+}
